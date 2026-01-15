@@ -7,13 +7,20 @@ As I advance in this field, it consists of fundamental ideas, practice journals,
 ---
 
 ## 📌 Goals
-Learn the principles of machine learning; practice Python for ML; create algorithms from scratch; and work with real-world datasets.
+Learn the principles of machine learning;
+practice Python for ML; create algorithms from scratch; 
+and work with real-world datasets.
 Establish a solid basis for cutting-edge ML and AI
 
 ---
 
-## 🛠️ Technologies Employed: Python 🐍; NumPy; Pandas; Matplotlib/Seaborn; Scikit-learn; Jupyter Notebook
+## 🛠️ Technologies Employed: 
+Python 🐍; 
+NumPy; 
+Pandas; 
+Matplotlib/Seaborn; 
+Scikit-learn; 
+Jupyter Notebook
 
 ---
 
-## 📂 Repository Framework
